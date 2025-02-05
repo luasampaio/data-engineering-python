@@ -24,3 +24,9 @@
 
 - python -m venv venv 
 - venv\Scripts\activate
+
+## Biblioteca
+
+- pip install beautifulsoup4
+- pip install pandas 
+- 
